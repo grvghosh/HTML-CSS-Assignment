@@ -5,3 +5,144 @@
 width: 100%;
 height: 100%;
 }
+
+div#page {
+
+    border:1px solid black;
+  
+    width:1500px;
+  
+    margin:0 auto;
+  
+    padding:5px;
+  
+    text-align:left;
+  
+    position:relative;
+   
+
+  
+  }
+
+  div {
+
+    text-align:center;
+  
+  }
+
+  header#header {
+
+    border:2px solid black;
+  
+    width:1490px;
+  
+    height:150px;
+  
+  }
+
+  aside#menu {
+
+    border:2px solid black;
+  
+    width:220px;
+  
+    float:left;
+  
+    margin:10px 0 10px 5px;
+  
+    height:500px;
+  
+  }
+  
+  aside#action {
+
+    position:absolute;
+  
+    top:225px;
+  
+    right:10px;
+  
+    border:2px solid black;
+  
+    width:235px;
+  
+    margin:0;
+  
+    height:500px;
+  
+  }
+  footer#page-footer {
+
+    border:2px solid black;
+  
+    width:1490px;
+  
+    height:130px;
+  
+  }
+
+  section#main-content-section {
+
+    border:2px solid black;
+  
+    width:1000px;
+  
+    margin:10px 0 10px 240px;
+  
+    min-height:500px;
+  
+    _height:500px
+  
+  }
+  #logo{ 
+    position:absolute; 
+    top:10px; 
+    left:20px;
+    
+  }
+  form {
+    box-sizing: border-box;
+    padding: 2rem;
+    float:right
+    
+  }
+  
+  .orange-column {
+    
+    height: 100px;
+  }
+  
+  .blue-column {
+    
+    height: 100px;
+  }
+  
+  
+  .row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  .some-page-wrapper {
+    display: block;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 55px
+    
+  }
+  nav#navigate {
+
+    border:2px solid black;
+    margin-top: 8px;
+    width:1490px;
+  
+    height:45px;
+  
+  }
+  #navi {
+    display: block;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 15px
+  }
